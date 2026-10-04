@@ -1,0 +1,78 @@
+---
+title: "Data control and societal governance"
+format: revealjs
+subtitle: "Core section 4"
+---
+
+## Governance beyond the workspace
+
+Individual protections operate within institutions, markets, and public rules.
+
+Which responsibilities should belong to the researcher, organization, or public authority?
+
+
+## The data journey
+
+Consider inputs, prompts, uploaded files, generated outputs, tool results, logs, and backups.
+
+Trace which services or people can access each part.
+
+
+## Different forms of control
+
+| Question | What to establish |
+|---|---|
+| Rights | Ownership and permitted use |
+| Access | Who can view or handle the data |
+| Retention | Storage and deletion rules |
+| Portability | Export and ability to leave |
+| Training | Whether submitted material can be reused |
+
+
+## Institutional and hosted services
+
+Review the actual service tier and applicable terms.
+
+Document allowed data, access, retention, incident responsibility, and export. A public FAQ is different from a reviewed negotiated contract.
+
+
+## Local and rented infrastructure
+
+Local inference can increase operational control.
+
+Review model license, connected tools, configuration, provider access, logs, and backups across the complete workflow.
+
+
+## Feasible protections
+
+Compare protections against your requirements, resources, and unresolved risks.
+
+Self-hosting alone establishes no blanket privacy or ownership guarantee.
+
+
+## Societal evidence
+
+Separate observed effects, proposed mechanisms, future scenarios, and normative judgments.
+
+Examine source scope, methods, incentives, uncertainty, and disagreement.
+
+
+## Political agency
+
+The instructor invites a collaborative, interdisciplinary politics suited to the scale of the transformation.
+
+Students can support, qualify, or challenge that position with evidence.
+
+
+## Proposed reflection
+
+Assess your data flows and a feasible protection strategy.
+
+Explain a societal position, a collective protection you consider necessary, uncertainty, and a serious counterargument.
+
+
+## Peer discussion
+
+Respond to one or two peers' reasoning or evidence.
+
+Explain whether the exchange changed your view. Board access, privacy, moderation, and submission rules will be set before use.

@@ -1,0 +1,79 @@
+---
+title: "System control and upkeep"
+format: revealjs
+subtitle: "Core section 3"
+---
+
+## A system that accumulates work
+
+Growing files, instructions, and unresolved issues can make a workspace harder to use.
+
+Upkeep supports continuity, control, and reproducibility.
+
+
+## Startup
+
+Read the current handoff, authoritative instructions, human decisions, open issues, and stopping controls.
+
+Confirm permitted scope, inputs, and acceptance criteria.
+
+
+## Closeout
+
+Record changes, outputs, verification, unresolved decisions, failures, and the next safe step.
+
+Make the continuation possible without reconstructing the chat.
+
+
+## Issue and decision backlog
+
+Record expected versus observed behavior, evidence, impact, owner, status, and proposed resolution.
+
+Distinguish a procedural repair from a consequential research choice.
+
+
+## An approved repair
+
+Reproduce the failure.
+
+Apply the authorized change.
+
+Check the affected behavior before closing the issue.
+
+
+## Artifact retention
+
+| Artifact | Retention question |
+|---|---|
+| Original input or evidence | Can these bytes be recovered? |
+| Final output | Is it needed to assess the result? |
+| Derived intermediate | Is regeneration verified? |
+| Decision or governance record | Is it needed for meaning and continuity? |
+
+
+## Regeneration
+
+Recreate a disposable intermediate in a separate location using the recorded recipe.
+
+For deterministic output, compare hashes. Retain the original when exact reproduction cannot be established.
+
+
+## A cleanup record
+
+A tombstone records the old path and hash, reason, authority, usable regeneration command, inputs, and verification result.
+
+A hash identifies bytes. It cannot recover them.
+
+
+## Workspace diagnosis
+
+Ask for concrete confusing paths, contradictory instructions, or costly handoffs.
+
+Treat the agent's report as evidence to evaluate. It does not establish subjective experience.
+
+
+## Proposed practice
+
+Demonstrate startup and closeout, resolve or escalate a backlog item, and verify a retention plan.
+
+Cleanup can be simulated. Preserve irreplaceable research evidence.

@@ -1,0 +1,22 @@
+author: "Simone Paci"
+format:
+  revealjs:
+    theme:
+      - default
+      - ../styles/slides.scss
+    width: 1280
+    height: 720
+    margin: 0.09
+    slide-number: c/t
+    transition: none
+    controls: true
+    progress: true
+    center: false
+    hash: true
+    navigation-mode: linear
+    preview-links: false
+    footer: "Agentic AI Workflows for Research · Draft"
+    toc: false
+    code-overflow: wrap
+    auto-stretch: false
+    lang: en

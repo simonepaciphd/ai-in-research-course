@@ -1,0 +1,72 @@
+---
+title: "Agentic AI workflows for research"
+format: revealjs
+subtitle: "Understand, use, and govern AI"
+---
+
+## The course purpose
+
+Build a research practice in which you can explain the technology, inspect delegated work, and retain responsibility for consequential decisions.
+
+
+## Understanding
+
+Distinguish **architecture**, **training**, **inference**, and the **application** around a model.
+
+Use that account to explain both broad capability and convincing mistakes.
+
+
+## Application
+
+Create an organized research workspace.
+
+Choose a task you need, define its boundaries, and produce an output with evidence of verification.
+
+
+## Human control
+
+People own the question, method, interpretation, and claims.
+
+Agents can implement approved procedures and contribute evidence or criticism.
+
+
+## Course sequence
+
+| Part | Focus |
+|---|---|
+| Introduction | Foundations and setup |
+| 1 | Principles and human control |
+| 2 | A useful research workflow |
+| 3 | Control and upkeep |
+| 4 | Data and societal governance |
+| 5 | To be defined |
+
+
+## Learning format
+
+Each core section is planned around background materials, a **two-hour live call**, and a practice exercise.
+
+The five core calls total **ten live hours**. Other work adds to that total.
+
+
+## Final project
+
+A reproducible pipeline covering data sourcing, question management, merging, analysis, visualization, and a website.
+
+Its scope and acceptance criteria will be agreed with the instructor.
+
+
+## Evidence and disagreement
+
+Political inquiry belongs in the course.
+
+Support a position with evidence, engage a serious counterargument, and explain uncertainty. Agreement with the instructor is not the learning objective.
+
+
+## Course materials
+
+[Course sequence](../course.qmd)
+
+[Slides and readings](../materials.qmd)
+
+[Final-project brief](../project.qmd)

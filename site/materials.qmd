@@ -1,0 +1,42 @@
+---
+title: "Slides and readings"
+---
+
+## Slide collection
+
+| Topic | Working slides |
+|---|---|
+| Course orientation | [Understand, use, and govern AI](slides/overview.qmd) |
+| Foundations | [Inside the black box](slides/foundations.qmd) |
+| Research setup | [Delegation and research setup](slides/best-practices.qmd) |
+| Section 1 | [Principles and human control](slides/human-control.qmd) |
+| Section 2 | [A useful research workflow](slides/workflow.qmd) |
+| Section 3 | [System control and upkeep](slides/upkeep.qmd) |
+| Section 4 | [Data control and societal governance](slides/governance.qmd) |
+
+The introductory foundation lesson and the core sections are different levels of the course structure. Topic names keep those levels distinct. Section 5 has no deck yet.
+
+## Course anchors
+
+- [With Great Powers: A Practical Guide to Agentic AI for Social Science Research](https://simonepaciphd.github.io/with-great-powers/): researcher control and radical transparency.
+- [Working with AI Agents](https://simonepaciphd.github.io/ai-os-public/): the instructor's public guide and research-workspace practices.
+- [AI OS public repository](https://github.com/simonepaciphd/ai-os-public): public operating-system materials.
+
+## Foundations
+
+These primary sources anchor specific concepts in the foundation draft. They are background references, rather than a requirement to read every paper in full.
+
+- Vaswani et al. (2017), [Attention Is All You Need](https://arxiv.org/abs/1706.03762): transformers and attention.
+- Brown et al. (2020), [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): conditioning on examples without gradient updates.
+- Ouyang et al. (2022), [Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155): one post-training pathway and its limits.
+- Penedo et al. (2024), [The FineWeb Datasets](https://arxiv.org/abs/2406.17557): an example of training-data preparation.
+- Lin, Hilton, and Evans (2021), [TruthfulQA](https://arxiv.org/abs/2109.07958): a benchmark examining learned human falsehoods.
+
+## Workflows and societal governance
+
+- [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents), Anthropic: design patterns for workflows and agent systems. The article is a historical design reference, not current installation instructions.
+- [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026): candidate risk and uncertainty excerpts.
+- [Stanford AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report): candidate societal evidence.
+- [Governing with Artificial Intelligence](https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287.html), OECD (2025): candidate public-sector governance material.
+
+Final excerpts and discussion readings remain under review. The reports cover different questions and should not be treated as a single agreed account of AI's effects.

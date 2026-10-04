@@ -1,0 +1,35 @@
+---
+title: "Final project"
+subtitle: "A reproducible research pipeline"
+---
+
+Bring the course practices together in a project whose evidence another person can inspect. Use a common template and a guided agent workflow, adapted to a research question approved by the responsible human.
+
+## Pipeline
+
+| Stage | Expected record |
+|---|---|
+| Data sourcing | Source manifest, access conditions, and preserved inputs |
+| Question management | Research question, authority boundaries, and decision record |
+| Merging | Approved matching rules and checks of matched and unmatched records |
+| Analysis | Approved specification, reproducible commands, and checked outputs |
+| Visualization | Figures traceable to analysis results and appropriately qualified labels |
+| Website presentation | A clear account of the method, evidence, uncertainty, and limitations |
+
+## Submission package
+
+- A task brief and human-approved substantive decisions.
+- Scripts, environment information, and commands that reproduce the work.
+- Source and execution records, verification evidence, and unresolved questions.
+- A website explaining the findings without overstating what the evidence establishes.
+- A handoff that makes continuation possible.
+
+A bounded version of a larger research task may be appropriate. The final scope, workload, and rubric will be set with the instructor.
+
+## Research-assistant applications
+
+Students interested in the lab may use the project as part of a research-assistant application. Project completion is evidence of work for review; it does not guarantee an appointment.
+
+## Data and publication
+
+Use only data and code permitted by the project's access and reuse conditions. Share links or a reproducible retrieval procedure when redistributing inputs is not allowed. Author contact, third-party code execution, purchases, and publication retain their own approval requirements.

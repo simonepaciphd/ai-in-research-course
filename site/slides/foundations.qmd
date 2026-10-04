@@ -1,0 +1,210 @@
+---
+title: "Inside the black box"
+format: revealjs
+subtitle: "Model growth and model use"
+---
+
+## An unfamiliar assistant
+
+An unfamiliar system offers to help with your research.
+
+Understanding what produces its answers helps explain both its accomplishments and its limits.
+
+
+## Two movements
+
+**How the model is created**
+
+Structure, training material, objectives, and parameter updates.
+
+**What happens when it is used**
+
+Current context, learned weights, and generated output.
+
+
+## Four distinct processes
+
+| Concept | What it describes |
+|---|---|
+| Architecture | Computational structure |
+| Training | Changes to learned parameters |
+| Inference | Using the trained model |
+| Application | Software that supplies context or executes actions |
+
+
+## Text and tokens
+
+The system represents text as **tokens**.
+
+A token may be a word, part of a word, or another text unit. Its numerical representation becomes an input to the model.
+
+::: {.source}
+Penedo et al. (2024), [FineWeb](https://arxiv.org/abs/2406.17557)
+:::
+
+
+## Parameters
+
+Parameters are numerical settings learned during training.
+
+Many settings work together. A single fact need not occupy one identifiable setting.
+
+Model size alone does not establish reliability on your task.
+
+
+## Attention
+
+Attention combines information from positions in a sequence when building a representation.
+
+The transformer supplies a computational structure for those relationships.
+
+::: {.source}
+Vaswani et al. (2017), [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+:::
+
+
+## Pretraining
+
+1. Supply an example prefix.
+2. Predict possible next tokens.
+3. Compare predictions with the training continuation.
+4. Update parameters.
+5. Repeat across many examples.
+
+::: {.source}
+Penedo et al. (2024), [FineWeb](https://arxiv.org/abs/2406.17557)
+:::
+
+
+## Training material
+
+People select and prepare the material.
+
+Filtering, cleaning, and deduplication influence what the model encounters. FineWeb is one public example of this preparation.
+
+::: {.source}
+Penedo et al. (2024), [FineWeb dataset](https://huggingface.co/datasets/HuggingFaceFW/fineweb)
+:::
+
+
+## Broad capabilities
+
+Predicting varied text can develop patterns useful for explanation, translation, and code.
+
+Success on one task still leaves reliability on another task to establish.
+
+::: {.source}
+Brown et al. (2020), [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+:::
+
+
+## The training target
+
+A next-token target comes from the example material.
+
+That material can contain accurate claims, fiction, mistakes, and repeated misconceptions. Prediction alone supplies no universal truth guarantee.
+
+::: {.source}
+Lin et al., [TruthfulQA](https://arxiv.org/abs/2109.07958)
+:::
+
+
+## Base model and assistant
+
+Additional training can shape responses toward instructions and preferred behavior.
+
+Demonstrations and preference feedback are one pathway. Post-training can improve behavior while leaving important limitations.
+
+::: {.source}
+Ouyang et al. (2022), [Instruction following with human feedback](https://arxiv.org/abs/2203.02155)
+:::
+
+
+## Inference
+
+Ordinary inference uses learned weights to process the current input.
+
+The context may include instructions, earlier messages, document extracts, and tool results.
+
+Generating a response does not itself update those weights.
+
+::: {.source}
+Brown et al. (2020), [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+:::
+
+
+## The generation loop
+
+1. Process the available context.
+2. Predict a distribution over next tokens.
+3. Select a token.
+4. Add it to the sequence.
+5. Continue until a stopping condition.
+
+
+## Token probability and truth
+
+::: {.large-statement}
+A likely continuation can form a false claim.
+:::
+
+The predicted probability concerns a token continuation. It is not a factual confidence score for the completed statement.
+
+::: {.source}
+Lin et al., [TruthfulQA](https://arxiv.org/abs/2109.07958)
+:::
+
+
+## A changed answer
+
+| Mechanism | What changes |
+|---|---|
+| Training | Learned parameters |
+| A follow-up correction | Current context |
+| Saved application memory | Material supplied to a later call |
+
+A correction can change the next answer without retraining.
+
+::: {.source}
+Brown et al. (2020), [Few-shot learning without gradient updates](https://arxiv.org/abs/2005.14165)
+:::
+
+
+## Fluency and mistakes
+
+Generated text can have the form of a citation or explanation while containing an unsupported claim.
+
+A supplied document can improve available information while still leaving room for misinterpretation.
+
+::: {.source}
+Lin et al., [TruthfulQA](https://arxiv.org/abs/2109.07958)
+:::
+
+
+## Model and application
+
+Producing text that requests a search differs from executing the search.
+
+The application can connect model outputs to tools and repeated calls. Those operations belong to the surrounding system.
+
+::: {.source}
+Anthropic, [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
+:::
+
+
+## The model lifecycle
+
+Architecture defines the structure.
+
+Training changes parameters.
+
+Inference uses those parameters with the current context.
+
+The application can supply information and execute actions.
+
+
+## A foundation to carry forward
+
+Explain how training differs from inference, and how a model differs from the system around it.
+
+The next teaching materials develop delegation, task specifications, and research practice.

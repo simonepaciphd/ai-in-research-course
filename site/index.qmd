@@ -1,0 +1,45 @@
+---
+title: ""
+title-block-style: none
+pagetitle: ""
+toc: false
+---
+
+::: {.hero}
+::: {.eyebrow}
+A course by Simone Paci
+:::
+
+# Agentic AI workflows for research
+
+::: {.lead}
+Understand how AI works. Put it to use in your research. Keep consequential judgment in human hands, and examine the institutions that govern the technology.
+:::
+
+[Explore the course](course.qmd){.btn .btn-primary}
+[Open the overview slides](slides/overview.qmd){.btn .btn-outline-primary}
+
+::: {.course-note}
+Working course materials. Introduction plus five core sections; the fifth section is still being developed.
+:::
+:::
+
+## A workflow you can inspect
+
+The course connects technical foundations to a research system you can direct, verify, and improve. You will build a workspace, define the decisions that remain yours, and apply an agent to a bounded task you actually need.
+
+Governance extends beyond your own desk. We will examine control over data, institutional responsibilities, and the societal consequences of delegation.
+
+## Learning through application
+
+Each core section is planned around supporting materials, a two-hour live call, and a practice exercise. Exercises build on your existing workspace and produce evidence of what you have done.
+
+The final project brings the pipeline together: source data, manage questions, merge and analyze, then explain the results through a website.
+
+[Read the course sequence](course.qmd) · [See the final-project brief](project.qmd)
+
+## Evidence and disagreement
+
+The course draws on [With Great Powers](https://simonepaciphd.github.io/with-great-powers/) and the [Working with AI Agents guide](https://simonepaciphd.github.io/ai-os-public/).
+
+Students can challenge the instructor's position. The aim is careful reasoning supported by evidence, with uncertainty and competing arguments kept visible.

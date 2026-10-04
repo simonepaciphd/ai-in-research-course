@@ -1,0 +1,32 @@
+---
+title: "System control and upkeep"
+subtitle: "Section 3"
+---
+
+Keep a growing research workspace understandable, controlled, and reproducible.
+
+## Learning goal
+
+Demonstrate startup and closeout routines, resolve or escalate a backlog item, and verify a retention plan.
+
+## Slides
+
+- [System control and upkeep](../slides/upkeep.qmd)
+
+These decks are working teaching drafts. Slide text is available in the editable Quarto source.
+
+## Main topics
+
+- Work gates, continuity, and safe handoffs
+- Issue triage, human decisions, and verified repairs
+- Regeneration checks, retention, and measured improvements
+
+## Practice
+
+Submit a maintenance record with startup/closeout, one justified change or decision to retain the system, relevant verification, and a cleanup plan. Demonstrate cleanup on disposable material or through simulation.
+
+Exercise details are proposals for instructor review. The final rubric and submission arrangements will accompany the teaching release.
+
+## Course sequence
+
+[Return to the course map](../course.qmd).

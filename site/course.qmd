@@ -1,0 +1,70 @@
+---
+title: "Course sequence"
+description: "An introduction and five core sections connecting understanding, application, and governance."
+---
+
+The introduction establishes technical foundations and a research workspace. Five core sections then connect human control, applied workflows, upkeep, and societal governance. Section 5 remains open.
+
+::: {.course-list}
+::: {.unit}
+::: {.unit-number}
+Introduction
+:::
+### [AI foundations and research setup](sections/introduction.qmd)
+Build an intuition about model training and inference, then organize prompts, context, and a reusable research workspace.
+:::
+
+::: {.unit}
+::: {.unit-number}
+Section 1
+:::
+### [Principles and human control](sections/01-human-control.qmd)
+Keep substantive research decisions with people and make delegated procedural work inspectable.
+:::
+
+::: {.unit}
+::: {.unit-number}
+Section 2
+:::
+### [A useful research workflow](sections/02-workflow.qmd)
+Choose a task you need, engineer the collaboration, complete it, and review the evidence.
+:::
+
+::: {.unit}
+::: {.unit-number}
+Section 3
+:::
+### [System control and upkeep](sections/03-upkeep.qmd)
+Keep a growing research workspace understandable, controlled, and reproducible.
+:::
+
+::: {.unit}
+::: {.unit-number}
+Section 4
+:::
+### [Data control and societal governance](sections/04-governance.qmd)
+Trace your data, compare feasible protections, and develop an evidence-backed political position.
+:::
+
+::: {.unit}
+::: {.unit-number}
+Section 5
+:::
+### [Section 5: to be defined](sections/05-open.qmd)
+The course reserves a fifth core section. Its subject and exercise await the instructor's decision.
+:::
+:::
+
+## How the course works
+
+Each core section is planned to combine short asynchronous teaching, background materials, a **two-hour live call**, and a practice exercise. The five calls account for **ten hours of live teaching**. Introduction time, asynchronous work, exercises, and final-project work add to that total.
+
+The first foundation lesson retains its deeper treatment of model training and inference. Its duration remains open; the general 10–15-minute video proposal does not establish a cap for that lesson.
+
+Exercise completion is intended to support progression. Acceptance rules, retries, and the platform for recording completion are still being designed. These static materials provide a learning sequence; they do not enforce an unlock.
+
+## The work builds across sections
+
+Keep one working research space as the course develops. Add authority boundaries, apply a useful workflow, review its operation, and examine its wider data and governance implications.
+
+[Final-project expectations](project.qmd) describe how that work can become a reproducible research pipeline.

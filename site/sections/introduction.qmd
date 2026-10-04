@@ -1,0 +1,33 @@
+---
+title: "AI foundations and research setup"
+subtitle: "Introduction"
+---
+
+Build an intuition about model training and inference, then organize prompts, context, and a reusable research workspace.
+
+## Learning goal
+
+Explain the model lifecycle and create a workspace for a small, verifiable research task.
+
+## Slides
+
+- [Inside the black box](../slides/foundations.qmd)
+- [Delegation and research setup](../slides/best-practices.qmd)
+
+These decks are working teaching drafts. Slide text is available in the editable Quarto source.
+
+## Main topics
+
+- Architecture, training, inference, and the surrounding application
+- Task specifications, context, skills, and handoff records
+- Tools, permissions, and a research workspace
+
+## Practice
+
+Prepare an agent-ready workspace, a bounded task brief, a verification record, and a handoff. The workload and acceptance rules remain to be finalized.
+
+Exercise details are proposals for instructor review. The final rubric and submission arrangements will accompany the teaching release.
+
+## Course sequence
+
+[Return to the course map](../course.qmd).

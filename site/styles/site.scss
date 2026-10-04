@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+$body-bg: #faf8f3;
+$body-color: #243b3b;
+$link-color: #176a60;
+$navbar-bg: #faf8f3;
+$navbar-fg: #243b3b;
+$font-family-sans-serif: "Segoe UI", Arial, sans-serif;
+$headings-font-family: Georgia, "Times New Roman", serif;
+$font-size-base: 1.1rem;
+$primary: #176a60;
+
+/*-- scss:rules --*/
+.navbar { border-bottom: 1px solid #deded3; padding-top: 1rem; padding-bottom: 1rem; }
+.navbar-brand { font-family: Georgia, serif; font-weight: 700; }
+main { max-width: 960px; }
+h1, h2, h3 { color: #183d37; }
+h1 { letter-spacing: -.025em; }
+h2 { margin-top: 2.2rem; }
+.hero { padding: 3rem 0 2.5rem; border-bottom: 1px solid #deded3; }
+.hero h1 { font-size: clamp(2.6rem, 5.6vw, 4.5rem); line-height: 1.04; max-width: 830px; margin-bottom: 1.5rem; }
+.hero .lead { max-width: 670px; font-size: 1.3rem; line-height: 1.6; }
+.eyebrow { font-size: .83rem; letter-spacing: .14em; text-transform: uppercase; color: #176a60; font-weight: 700; }
+.hero .btn { padding: .7rem 1.1rem; margin: .6rem .6rem .2rem 0; border-radius: 3px; font-weight: 600; }
+.course-note { color: #5c6962; font-size: .95rem; }
+.course-list { margin: 2rem 0; }
+.course-list .unit { padding: 1.4rem 0; border-bottom: 1px solid #deded3; }
+.course-list h3 { margin-top: 0; font-size: 1.5rem; }
+.course-list p { max-width: 760px; margin-bottom: .4rem; }
+.course-list .unit-number { font-family: "Segoe UI", sans-serif; font-size: .85rem; color: #176a60; letter-spacing: .08em; text-transform: uppercase; }
+table { font-size: .96rem; }
+footer { border-top: 1px solid #deded3; }
+a:focus-visible { outline: 3px solid #b36b33; outline-offset: 3px; }
+@media (max-width: 640px) {
+  .hero { padding-top: 1.7rem; }
+  .hero .lead { font-size: 1.1rem; }
+}

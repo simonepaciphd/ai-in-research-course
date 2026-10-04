@@ -1,0 +1,21 @@
+# Public repository inventory is deliberately narrow.
+# Original teaching sources and private research packages remain local.
+/*
+!/.gitignore
+!/.github/
+!/site/
+!/scripts/
+
+/scripts/*
+!/scripts/course-tools/
+/scripts/course-tools/*
+!/scripts/course-tools/build.ps1
+!/scripts/course-tools/validate-site.py
+
+/site/_site/
+/site/.quarto/
+/site/slides/.quarto/
+**/__pycache__/
+**/.DS_Store
+**/.env
+**/.env.*

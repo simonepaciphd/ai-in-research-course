@@ -1,0 +1,32 @@
+---
+title: "Principles and human control"
+subtitle: "Section 1"
+---
+
+Keep substantive research decisions with people and make delegated procedural work inspectable.
+
+## Learning goal
+
+Turn your research philosophy into an authority map, monitoring records, and an escalation route.
+
+## Slides
+
+- [Principles and human control](../slides/human-control.qmd)
+
+These decks are working teaching drafts. Slide text is available in the editable Quarto source.
+
+## Main topics
+
+- Human cognitive sovereignty and the principal–agent relationship
+- Substantive decisions and procedural implementation
+- Monitoring, alignment, and escalation through the responsible human
+
+## Practice
+
+Apply a personal governance layer to your workspace. Submit the authority map, instructions, verification evidence, and a worked escalation case. A clearly labeled simulation can illustrate a PI/RA decision.
+
+Exercise details are proposals for instructor review. The final rubric and submission arrangements will accompany the teaching release.
+
+## Course sequence
+
+[Return to the course map](../course.qmd).

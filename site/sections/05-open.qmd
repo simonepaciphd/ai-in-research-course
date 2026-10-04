@@ -1,0 +1,21 @@
+---
+title: "Section 5: to be defined"
+subtitle: "Section 5"
+---
+
+The course reserves a fifth core section. Its subject and exercise await the instructor's decision.
+
+## Learning goal
+
+To be defined with the instructor.
+
+
+
+## Practice
+
+No exercise or slide deck has been assigned to this section.
+
+
+## Course sequence
+
+[Return to the course map](../course.qmd).

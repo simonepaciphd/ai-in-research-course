@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "sections/*.qmd"
+    - "slides/*.qmd"
+  resources:
+    - ".nojekyll"
+
+website:
+  title: "Agentic AI for Research"
+  description: "Understand, use, and govern AI in research. A course by Simone Paci."
+  site-url: https://simonepaciphd.github.io/ai-in-research-course/
+  navbar:
+    background: light
+    title: "Agentic AI for Research"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: course.qmd
+        text: Course
+      - href: materials.qmd
+        text: Slides & readings
+      - href: project.qmd
+        text: Final project
+  page-footer:
+    left: "Simone Paci · Course materials in development"
+    right:
+      - text: With Great Powers
+        href: https://simonepaciphd.github.io/with-great-powers/
+  search: true
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles/site.scss
+    toc: true
+    toc-depth: 2
+    anchor-sections: true
+    link-external-newwindow: true
+    lang: en
+    respect-user-color-scheme: false
+
+execute:
+  enabled: false
+
+filters:
+  - filters/strip-notes.lua

@@ -1,0 +1,32 @@
+---
+title: "Data control and societal governance"
+subtitle: "Section 4"
+---
+
+Trace your data, compare feasible protections, and develop an evidence-backed political position.
+
+## Learning goal
+
+Evaluate data and authority in your workflow and distinguish personal safeguards from collective protections.
+
+## Slides
+
+- [Data control and societal governance](../slides/governance.qmd)
+
+These decks are working teaching drafts. Slide text is available in the editable Quarto source.
+
+## Main topics
+
+- Data flows, ownership, access, retention, and portability
+- Institutional services, hosted models, and local or rented infrastructure
+- Societal evidence, uncertainty, counterarguments, and political agency
+
+## Practice
+
+Prepare a data-control review and a reflection grounded in evidence. The planned discussion includes responses to one or two peers; access, privacy, moderation, and assessment arrangements will be specified before use.
+
+Exercise details are proposals for instructor review. The final rubric and submission arrangements will accompany the teaching release.
+
+## Course sequence
+
+[Return to the course map](../course.qmd).

@@ -1,0 +1,78 @@
+---
+title: "A useful research workflow"
+format: revealjs
+subtitle: "Core section 2"
+---
+
+## A task you actually need
+
+Choose a research task whose output you would use after verification.
+
+Bound the scope so the inputs are available and completion is checkable.
+
+
+## Task brief
+
+Explain the intended use, inputs, target output, current procedure, and acceptance criteria.
+
+List substantive choices needed before execution.
+
+
+## Collaboration plan
+
+Assign procedural steps, human decisions, dependencies, review points, and stopping conditions.
+
+Resolve consequential ambiguity before the affected step proceeds.
+
+
+## A reusable procedure
+
+Record the inputs, sequence, tools, expected artifacts, and checks.
+
+Preserve the version used for the application so later changes can be compared.
+
+
+## A merge example
+
+Check expected key uniqueness and join multiplicity.
+
+Record matched and unmatched cases.
+
+Explain row-count changes and inspect selected source-to-output records.
+
+
+## A source comparison
+
+Agree on definitions, units, time periods, and coverage.
+
+Preserve disagreements for interpretation.
+
+Agreement between two sources does not establish what a proxy measures.
+
+
+## One complete application
+
+Run the approved scope, retain intermediate records, and surface deviations.
+
+A pilot can expose a problem before the full bounded application.
+
+
+## Output and collaboration
+
+**Output review:** does it meet the criteria?
+
+**Process review:** where did instructions, context, checks, or escalation succeed or fail?
+
+
+## Improvement evidence
+
+Connect a proposed change to an observed failure or burden.
+
+Rerun the relevant check when practical. Record time or cost if making an efficiency claim.
+
+
+## Proposed practice
+
+Submit the task brief, workflow and skills, verified output, application review, and next-step handoff.
+
+A reasoned decision to retain the workflow is a valid review outcome.

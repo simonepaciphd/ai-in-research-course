@@ -1,0 +1,98 @@
+---
+title: "Delegation and research setup"
+format: revealjs
+subtitle: "A foundation for useful, inspectable work"
+---
+
+## A bounded research task
+
+A good starting task has accessible inputs, a clear output, and a way to judge completion.
+
+Choose a task whose result you can inspect.
+
+
+## Decisions and implementation
+
+The human defines the research question, meaningful assumptions, and methodological choices.
+
+The agent implements a procedure within that authority. Newly discovered consequential choices return to the human.
+
+
+## Task specification
+
+State the purpose, inputs, desired output, permitted actions, and constraints.
+
+Include acceptance evidence: what will show that the task is complete?
+
+
+## A task brief
+
+**Task:** join two supplied research tables.
+
+**Human decision:** which identifiers and matching rules represent the intended relation.
+
+**Acceptance evidence:** key checks, match status, row-count changes, and selected record checks.
+
+
+## Context
+
+Supply the material needed for the current step.
+
+Use precise paths and distinguish authoritative instructions, source inputs, working drafts, and generated outputs.
+
+
+## Continuity
+
+Write a short handoff recording the current state, relevant decisions, verification status, unresolved issues, and next step.
+
+Keep continuity in inspectable files.
+
+
+## Research workspace
+
+| Area | Purpose |
+|---|---|
+| Inputs | Supplied data and source material |
+| Scripts | Reproducible operations |
+| Outputs | Generated artifacts |
+| Records | Decisions, checks, and handoffs |
+| Scratch | Temporary work |
+
+
+## Reusable skills
+
+A skill records purpose, required inputs, procedure, tools, decision boundaries, outputs, and checks.
+
+Use it on the task before deciding whether it works well.
+
+
+## Tools and permissions
+
+Identify which actions the system can take and which need authorization.
+
+Permission to call a tool does not settle the substantive research choice made through that tool.
+
+
+## Verification
+
+Inspect the actual artifact or source.
+
+Match each check to the claim it establishes. An agent's completion statement alone does not show that the output meets the criteria.
+
+
+## Proposed setup exercise
+
+Prepare a workspace, task brief, reusable procedure, output and verification record.
+
+End with a handoff another work session can use.
+
+Exercise details and acceptance rules remain under review.
+
+
+## Public course anchors
+
+[With Great Powers](https://simonepaciphd.github.io/with-great-powers/)
+
+[Working with AI Agents](https://simonepaciphd.github.io/ai-os-public/)
+
+Use the public materials when preparing a portable workspace.

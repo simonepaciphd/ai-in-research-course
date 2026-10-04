@@ -1,0 +1,32 @@
+---
+title: "A useful research workflow"
+subtitle: "Section 2"
+---
+
+Choose a task you need, engineer the collaboration, complete it, and review the evidence.
+
+## Learning goal
+
+Produce a verified output from one bounded workflow and evaluate how the collaboration performed.
+
+## Slides
+
+- [A useful research workflow](../slides/workflow.qmd)
+
+These decks are working teaching drafts. Slide text is available in the editable Quarto source.
+
+## Main topics
+
+- Task selection and explicit acceptance criteria
+- Reusable skills, accessible inputs, and review points
+- Verification of outputs and evidence for improvements
+
+## Practice
+
+Submit a task brief, workflow and skills, output and checks, application review, and a justified improvement or reasoned decision to retain the workflow.
+
+Exercise details are proposals for instructor review. The final rubric and submission arrangements will accompany the teaching release.
+
+## Course sequence
+
+[Return to the course map](../course.qmd).

@@ -1,0 +1,85 @@
+---
+title: "Principles and human control"
+format: revealjs
+subtitle: "Core section 1"
+---
+
+## Human cognitive sovereignty
+
+Researchers retain the ability to understand, direct, question, and take responsibility for work.
+
+What intellectual responsibility do you want to preserve in your own practice?
+
+
+## Principal and agent
+
+A human sets the objective and delegates bounded work.
+
+The governance problem concerns both authority over choices and evidence about execution.
+
+
+## Two governing principles
+
+**Researcher control** preserves consequential human judgment.
+
+**Radical transparency** makes work and its provenance inspectable.
+
+::: {.source}
+Paci, [With Great Powers](https://simonepaciphd.github.io/with-great-powers/)
+:::
+
+
+## Substantive and procedural work
+
+| Choice or task | Responsibility |
+|---|---|
+| Research question or method | Designated human |
+| Implementation of an approved specification | Delegated, then checked |
+| Interpretation or headline claim | Designated human |
+| Formatting approved results | Delegated, then checked |
+
+
+## Judgment inside technical work
+
+A merge command can encode a decision about a valid match.
+
+An exclusion rule can change a result's meaning.
+
+Classify the consequential choice, even when it appears inside code.
+
+
+## Monitoring
+
+Keep task records, artifact provenance, verification evidence, uncertainties, and human decisions.
+
+Use them at meaningful checkpoints to judge what happened.
+
+
+## Alignment
+
+Specify goals, constraints, permitted procedural work, and escalation points.
+
+Corresponding checks and interventions make the rules usable.
+
+
+## Escalation
+
+A decision request identifies the choice, options, evidence, uncertainty, consequences, and responsible human.
+
+Peer discussion and AI criticism can inform that decision.
+
+
+## Proposed practice
+
+Apply a personal governance layer to the introduction workspace.
+
+Demonstrate one procedural delegation and one consequential question returned to the appropriate human.
+
+
+## Evidence for discussion
+
+Which decisions remain yours?
+
+What do the records establish?
+
+Where could a formally approved output still conceal a judgment you did not intend to delegate?
